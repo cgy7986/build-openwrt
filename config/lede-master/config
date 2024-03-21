@@ -1,3 +1,7 @@
+#
+# Automatically generated file; DO NOT EDIT.
+# OpenWrt Configuration
+#
 CONFIG_TARGET_mediatek=y
 CONFIG_TARGET_mediatek_filogic=y
 CONFIG_TARGET_mediatek_filogic_DEVICE_qihoo_360t7=y
@@ -379,3 +383,16 @@ CONFIG_boost-runtime-shared=y
 CONFIG_boost-static-and-shared-libs=y
 CONFIG_boost-variant-release=y
 CONFIG_PACKAGE_mosdns=y
+
+# end of Utilities
+
+#
+# Xorg
+#
+
+#
+# Font-Utils
+#
+# CONFIG_PACKAGE_fontconfig is not set
+# end of Font-Utils
+# end of Xorg
